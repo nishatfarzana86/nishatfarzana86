@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nishatfarzana86
-- 👀 I’m interested in Web design, UI/UX Design, Mandala Design 
+- 👀 I’m interested in Web design, Web Development, PHP, UI/UX Design, Mandala Design 
 - 🌱 I’m currently learning Firebase - nosql database services 
 - 📫 How to reach me: nishatfarzana310@gmail.com 
 - 📫 To view my word visit: https://www.flickr.com/photos/nishatfarzana86/
